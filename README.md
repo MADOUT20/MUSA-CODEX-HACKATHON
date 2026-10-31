@@ -2,7 +2,7 @@ RAHAT SETU/ MUSA CODEX
 
 ## Welcome
 
-OMNITRIX is a privacy-focused student safety system for anonymous complaints, code-mixed language analysis, and high-level risk indicators.
+RAHAT SETU is a privacy-focused student safety system for anonymous complaints, code-mixed language analysis, and high-level risk indicators.
 
 ```text
 Complaint -> Privacy transformation -> MuRIL V5-B -> Risk mapping -> Admin dashboard
@@ -36,9 +36,9 @@ The complaint is privacy-transformed before normalization or external language p
 <summary>Open the legacy technical reference</summary>
 
 
-# OMNITRIX: Privacy-Preserving Student Safety Intelligence
+# RAHAT SETU: Privacy-Preserving Student Safety Intelligence
 
-OMNITRIX (also known as MUSA CODEX) is a specialized multi-platform system for detecting distress and emotion in code-mixed (Hinglish) text, specifically tailored for student safety assessments. It employs a privacy-first architecture where analysis is performed on a secure backend, returning only high-level safety indicators to the end-user.
+RAHAT SETU is a specialized multi-platform system for detecting distress and emotion in code-mixed (Hinglish) text, specifically tailored for student safety assessments. It employs a privacy-first architecture where analysis is performed on a secure backend, returning only high-level safety indicators to the end-user.
 
 ## 🏗️ System Architecture
 
